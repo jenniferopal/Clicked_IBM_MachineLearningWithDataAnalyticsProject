@@ -2,8 +2,8 @@
 
 # Team Members: 
 
-Jennifer Opal
-Ibukunoluwa Adeyemi
+ - Jennifer Opal
+ - Ibukunoluwa Adeyemi
 
 ## What is the project? 
 
